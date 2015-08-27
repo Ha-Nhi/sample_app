@@ -4,13 +4,13 @@
     <data-source source="LOCAL" name="Rails sample_app: development" uuid="31c4cff1-5ebc-4b3a-8e6f-1bd4fb29ed56">
       <driver-ref>postgresql</driver-ref>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql:db/sample_app</jdbc-url>
+      <jdbc-url>jdbc:postgresql:mydb</jdbc-url>
       <libraries />
     </data-source>
     <data-source source="LOCAL" name="Rails sample_app: test" uuid="8f68a945-43b0-45ea-8f03-5d1af326dbe9">
       <driver-ref>postgresql</driver-ref>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql:db/sample_app</jdbc-url>
+      <jdbc-url>jdbc:postgresql:mydb</jdbc-url>
       <libraries />
     </data-source>
     <data-source source="LOCAL" name="Rails sample_app: production" uuid="7dfc4b1e-8ca3-43a5-9182-3368542206f6">
