@@ -9,6 +9,8 @@ gem 'pg'
 gem 'bootstrap-sass'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
+# bcrypt to hash the password
+gem 'bcrypt', '~>3.1.7'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 # Use CoffeeScript for .coffee assets and views
